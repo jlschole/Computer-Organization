@@ -1,2 +1,2 @@
-# Computer-Organization
-Computer Org Class Lab Work
+# System Synthesis
+System Synthesis Circuit Lab Work
